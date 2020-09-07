@@ -1,0 +1,30 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+.Definición {
+  background-color: crimson;
+  width: 250px;
+  height: 250px;
+  display: inline-block;
+}
+
+.cuerpo {
+  margin: auto;
+  margin-top: auto;
+  width: 160px;
+  height: 250px;
+  background-color: coral;
+  display: inline-block;
+}
+.footer {
+  float: right;
+  width: 300px;
+  height: 500px;
+  background-color: cornsilk;
+  display: inline-block;
+}
+
+div#cuerpo {
+  width: ;
+}
