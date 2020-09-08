@@ -1,2 +1,4 @@
-.elements {
+ul {
+  list-style-type: none;
+  margin: 12px;
 }
